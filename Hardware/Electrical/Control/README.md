@@ -15,10 +15,11 @@ A simple explanation of the control algorithm during firing is as follows:
 9. If this is the last coil stage, pulse the (active-low) clear pin on the shift register to (re)set all the coils to off.
 
 Below is an picture of the existing circuit and the most important parts of it labeled. The one important part not shown here is the "trigger" button to tell it to fire, which simply connects to two of the microcontroller pins.
-![[microcontroller board explained pic.png]]
+![](microcontroller%20board%20explained%20pic.png)
 
 A more complete schematic of the circuit is shown in the KiCad project sub-folder in this same folder.
 
 An alternative way to do control could be to have a very simple circuit with logic ICs on each stage. The logic is essentially a reset-dominant SR latch, ideally with a rising-edge trigger for the input to start the coil firing. The logic circuit is illustrated below:
-![[logic circuit for simple coil stage control.png]]
+![](logic%20circuit%20for%20simple%20coil%20stage%20control.png)
+
 A separate timeout circuit could also be added for safety. It would take in the same signal as the coil turn-on input and output to an additional OR gate that also takes in the sensor output. The output of the OR gate would go to the coil turn-off input of the logic board.

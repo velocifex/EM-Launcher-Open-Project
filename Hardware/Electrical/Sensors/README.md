@@ -1,8 +1,8 @@
 Initially there were IR photogate sensors made to detect projectile position, shown below:
-![[photo gate type sensor.png]]
+![](photo%20gate%20type%20sensor.png)
 
 But those did not work consistently for some reason, so a simpler direct-contact sensor was made, shown below:
-![[direct contact type sensor.png]]
+![](direct%20contact%20type%20sensor.png)
 It has two small flexible "brushes" made from copper braided desoldering wick, and when the projectile enters the sensor it just contacts them both and closes a circuit.
 
 There are a few more circuit components, shown in the KiCad schematic in the "sensor circuit" folder, just to electrically isolate the sensitive microcontroller circuitry from the parts of the sensor that are near the coils and susceptible to the huge EMF spikes when it turns on or off. This additional circuitry is shown in the schematic in this folder.

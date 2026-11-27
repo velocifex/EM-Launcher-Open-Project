@@ -5,9 +5,9 @@ Another important part is the flyback diode (also called crowbar diode) which le
 This version of the circuit uses only low-side switching to reduce the cost and complexity of having to switch an N-channel MOSFET at the high side or having to find a corresponding P-channel MOSFET with similar power ratings.
 
 Front view:
-![[power switch board front labeled.png]]
+![](power%20switch%20board%20front%20labeled.png)
 
 Back view:
-![[power switch board back labeled.png]]
+![](power%20switch%20board%20back%20labeled.png)
 
-The board could technically be facing in any direction as long as the terminal connections to the coil and power are correct. The "front" and "rear" are just nominal designations.
+The board could technically be facing in any direction as long as the terminal connections to the coil and power are correct. The "front" and "back" are just nominal designations.

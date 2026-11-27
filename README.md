@@ -3,7 +3,9 @@ This is a project to continually improve and implement open-source designs for c
 
 # Help Wanted!
 >This repo currently encapsulates a working but underperforming prototype. **It is meant as a starting point to improve upon.**
+>
 >It would be very helpful if individuals with electrical engineering skills could contribute to the project, especially to improve the circuit design (both schematics and layout).
+>
 >As stated below, **"this coilgun project aims to become the long-developed, widespread project that always could have been, but sadly never was."**
 
 # Legality Notice
