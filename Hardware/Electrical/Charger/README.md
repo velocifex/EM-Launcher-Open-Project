@@ -1,0 +1,3 @@
+Charging the power capacitors is done manually using a DC power supply that has an adjustable output voltage set to 100V, or whatever else the maximum voltage rating of the capacitors is. These can be purchased commercially for moderate cost around $40 USD.
+
+As an extra safety measure, the 100V-rated capacitors should only ever be charged to 90V or maybe 95V. This decreases the available stored energy somewhat (about 20% between 90V and 100V) but minimizes the risk of the powerful capacitors short-circuiting internally with catastrophic results.
