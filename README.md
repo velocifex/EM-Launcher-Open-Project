@@ -1,5 +1,6 @@
 # Open-Source Electromagnetic Launcher (Coilgun) Development
 This is a project to continually improve and implement open-source designs for coilguns, which are a type of electromagnetic (E.M.) launcher. This repository has files and information about the hardware and software for the designs under development.
+![](coilgun%20banner%20mockup%20and%20real.png)
 
 # Help Wanted!
 >This repo currently encapsulates a working but underperforming prototype. **It is meant as a starting point to improve upon.**
