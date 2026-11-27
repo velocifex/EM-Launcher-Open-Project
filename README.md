@@ -13,11 +13,6 @@ Physically producing some parts of this project may be legally prohibited in som
 Here is one very good and quick explanation of coilguns:
 https://www.youtube.com/shorts/EF3v-DWCZcQ
 
-%%**todo finish the video lol**
-This project has a corresponding video which explains coilguns, including this one, in more detail:
-**todo** YouTube link
-**todo** Odysee link%%
-
 In summary, a coilgun is fundamentally a type of electromagnetic motor, a linear switched reluctance motor to be exact. Like other electric motors it has:
 - An armature to be moved. On rotating motors this is the rotor, and on a coilgun it is the projectile or launch vehicle.
 	- For most coilguns including this one, the projectile is made partly or entirely of ferromagnetic material.
